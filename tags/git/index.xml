@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>git on 方董濠的个人网站</title>
+    <link>https://fangdonghao.github.io/tags/git/</link>
+    <description>Recent content in git on 方董濠的个人网站</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zn-Hans</language>
+    <lastBuildDate>Sun, 16 Jun 2019 16:11:35 +0800</lastBuildDate>
+    
+	<atom:link href="https://fangdonghao.github.io/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Git</title>
+      <link>https://fangdonghao.github.io/blog/2019-06/git/</link>
+      <pubDate>Sun, 16 Jun 2019 16:11:35 +0800</pubDate>
+      
+      <guid>https://fangdonghao.github.io/blog/2019-06/git/</guid>
+      <description>git 新建一个用于建立仓库的空文件夹mkdir new cd进入新建的文件夹，执行git init初始化仓库，产生.git文件夹，隐藏文件夹可用ls -a查看 在仓库内，对于新建或改动的文件可用git add name添加到缓存区，再使用git commit -m “备注”提交到仓库管理，git add name可添加多个文件。 使用git status可以查看仓库当前的状态，使用git diff name可以查看相关文件的改动。 使用git log可查看提交的历史</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>杂技浅尝 on 方董濠的个人网站</title>
+    <link>https://fangdonghao.github.io/categories/%E6%9D%82%E6%8A%80%E6%B5%85%E5%B0%9D/</link>
+    <description>Recent content in 杂技浅尝 on 方董濠的个人网站</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zn-Hans</language>
+    <lastBuildDate>Sun, 16 Jun 2019 16:11:35 +0800</lastBuildDate>
+    
+	<atom:link href="https://fangdonghao.github.io/categories/%E6%9D%82%E6%8A%80%E6%B5%85%E5%B0%9D/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Git</title>
+      <link>https://fangdonghao.github.io/blog/2019-06/git/</link>
+      <pubDate>Sun, 16 Jun 2019 16:11:35 +0800</pubDate>
+      
+      <guid>https://fangdonghao.github.io/blog/2019-06/git/</guid>
+      <description>git 新建一个用于建立仓库的空文件夹mkdir new cd进入新建的文件夹，执行git init初始化仓库，产生.git文件夹，隐藏文件夹可用ls -a查看 在仓库内，对于新建或改动的文件可用git add name添加到缓存区，再使用git commit -m “备注”提交到仓库管理，git add name可添加多个文件。 使用git status可以查看仓库当前的状态，使用git diff name可以查看相关文件的改动。 使用git log可查看提交的历史</description>
+    </item>
+    
+    <item>
+      <title>Hugo的搭建于使用</title>
+      <link>https://fangdonghao.github.io/blog/2019-06/hugo%E7%9A%84%E6%90%AD%E5%BB%BA%E4%BA%8E%E4%BD%BF%E7%94%A8/</link>
+      <pubDate>Sun, 16 Jun 2019 15:48:07 +0800</pubDate>
+      
+      <guid>https://fangdonghao.github.io/blog/2019-06/hugo%E7%9A%84%E6%90%AD%E5%BB%BA%E4%BA%8E%E4%BD%BF%E7%94%A8/</guid>
+      <description>hugo的搭建于使用 hugo的本地搭建 安装hugo：使用sudo apt-get install hugo安装hugo，之后使用hugo version查看hugo版本确认安装是否成功。 新建文件夹：使用hugo new site mysite生成一个新的博客文件夹。 安装主题：前往hugo主题网站选择主题。通过git下载到mysite/themes/。可通过mysite路经下的config.toml文件修改主题配置。 启动博客：使用hugo server -t hugo-theme-learn -</description>
+    </item>
+    
+    <item>
+      <title>Typora_and_Markdow</title>
+      <link>https://fangdonghao.github.io/blog/2019-06/typora_and_markdow/</link>
+      <pubDate>Sun, 16 Jun 2019 15:48:07 +0800</pubDate>
+      
+      <guid>https://fangdonghao.github.io/blog/2019-06/typora_and_markdow/</guid>
+      <description>Typora and Markdow Typora官网 https://www.typora.io/ Markdown语法 基本的带快捷键的 Markdown 书写演示 `Ctrl 0 到 Ctrl 4：普通文本、一级～四级标题； Ctrl B：加粗。加粗测试； `Ctrl I：斜体，*斜体测试*； Ctrl U：下划线，下划线测试； Shift Alt 5：删除线，删除线测试； Shift Ctrl Tab键上面那个键：行内代码块，行内代码块测试； Ctrl K：超链接，超链接测试[超链接测试](www.baidu.com)；支持文章内锚点[锚点](#标题)； Ctrl T：表格，支持拖拽移动、网页端表</description>
+    </item>
+    
+  </channel>
+</rss>

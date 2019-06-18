@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>markdown on 方董濠的个人网站</title>
+    <link>https://fangdonghao.github.io/tags/markdown/</link>
+    <description>Recent content in markdown on 方董濠的个人网站</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zn-Hans</language>
+    <lastBuildDate>Sun, 16 Jun 2019 15:48:07 +0800</lastBuildDate>
+    
+	<atom:link href="https://fangdonghao.github.io/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Typora_and_Markdow</title>
+      <link>https://fangdonghao.github.io/blog/2019-06/typora_and_markdow/</link>
+      <pubDate>Sun, 16 Jun 2019 15:48:07 +0800</pubDate>
+      
+      <guid>https://fangdonghao.github.io/blog/2019-06/typora_and_markdow/</guid>
+      <description>Typora and Markdow Typora官网 https://www.typora.io/ Markdown语法 基本的带快捷键的 Markdown 书写演示 `Ctrl 0 到 Ctrl 4：普通文本、一级～四级标题； Ctrl B：加粗。加粗测试； `Ctrl I：斜体，*斜体测试*； Ctrl U：下划线，下划线测试； Shift Alt 5：删除线，删除线测试； Shift Ctrl Tab键上面那个键：行内代码块，行内代码块测试； Ctrl K：超链接，超链接测试[超链接测试](www.baidu.com)；支持文章内锚点[锚点](#标题)； Ctrl T：表格，支持拖拽移动、网页端表</description>
+    </item>
+    
+  </channel>
+</rss>
